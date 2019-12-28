@@ -752,7 +752,7 @@ body {
   letter-spacing: 0.01em;
   font-weight: 200;
   font-style: normal;
-  font-size: 0.8rem;
+  font-size: 1.3rem;
 }
 #header-post #nav ul {
   line-height: 15px;
@@ -1066,7 +1066,7 @@ article header .meta {
 }
 article header .meta * {
   color: #8c8c8c;
-  font-size: 0.85rem;
+  font-size: 1rem;
 }
 article header .author {
   text-transform: uppercase;
