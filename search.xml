@@ -4,36 +4,11 @@
   
     
     <entry>
-      <title>Mahailan</title>
-      <link href="/2019/12/26/Mahailan/"/>
-      <url>/2019/12/26/Mahailan/</url>
+      <title>Quantum Reinforcement Learning</title>
+      <link href="/2020/01/08/Reinforcement-Learning/"/>
+      <url>/2020/01/08/Reinforcement-Learning/</url>
       
-        <content type="html"><![CDATA[<blockquote><p>lanlan</p></blockquote>]]></content>
-      
-      
-      <categories>
-          
-          <category> 2019-12 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> test </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Reinforcement Learning</title>
-      <link href="/2019/12/23/Reinforcement-Learning/"/>
-      <url>/2019/12/23/Reinforcement-Learning/</url>
-      
-        <content type="html"><![CDATA[<blockquote><p>just for test</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>Quantum reinforcement learning is an interesting topic, i will continue it later.</p></blockquote>]]></content>
       
       
       <categories>
@@ -54,16 +29,16 @@
     
     
     <entry>
-      <title>Quantum Control</title>
-      <link href="/2019/12/23/Quantum-Control/"/>
-      <url>/2019/12/23/Quantum-Control/</url>
+      <title>Introduction of Quantum Control</title>
+      <link href="/2019/12/30/Quantum-Control/"/>
+      <url>/2019/12/30/Quantum-Control/</url>
       
-        <content type="html"><![CDATA[<blockquote><p>just for test</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>Quantum control theory is a rapidly evolving research area, which has developed over<br>the last three decades. Controlling quantum phenomena has been an implicit<br>goal of much quantum physics and chemistry research since the establishment of quantum<br>mechanics.</p></blockquote><blockquote><p>To have a better understanding of quantum control, please refer to the following resources.</p><ol><li>M. A. Nielsen and I. L. Chuang (2010), Quantum Computation and Quantum Information, Cambridge University Press.</li><li>H. M. Wiseman and G. J. Miburn (2010), Quantum Measurement and Control, Cambridge University Press.</li><li>J. Biamonte, P. Wittek, N. Pancotti, P. Rebentrost, N. Wiebe and S. Lloyd (2017), Quantum machine learning, Nature, Vol. 549, pp. 195-202​​​​​​.</li><li>D. Dong and I. R. Petersen (2010), Quantum control theory and applications: A survey, IET Control Theory &amp; Applications, Vol. 4, pp. 2651-2671​​​​.</li></ol></blockquote>]]></content>
       
       
       <categories>
           
-          <category> 2019-12 </category>
+          <category> introduction </category>
           
       </categories>
       
@@ -79,36 +54,11 @@
     
     
     <entry>
-      <title>Quantum Control</title>
-      <link href="/2019/12/23/Quantum/"/>
-      <url>/2019/12/23/Quantum/</url>
+      <title>A Introduction to My Blog</title>
+      <link href="/2019/12/22/Introduction/"/>
+      <url>/2019/12/22/Introduction/</url>
       
-        <content type="html"><![CDATA[<blockquote><p>just for test</p></blockquote>]]></content>
-      
-      
-      <categories>
-          
-          <category> 2019-12 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> learning </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Introduction</title>
-      <link href="/2019/12/23/Introduction/"/>
-      <url>/2019/12/23/Introduction/</url>
-      
-        <content type="html"><![CDATA[<blockquote><p>Welcome to my blog</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>Welcome to my blog, this blog is lanched for the purpose of displaying my research.<br>For the preparation of this blog, I was technically aied by my husband, Zhenghong Sun, who<br>is a software engineer. I am grateful for his help.</p></blockquote><blockquote><p>I am ready to begin my PhD study, so in the next few years, I will become a professional<br>research scholoar and to dive into my interest field.</p></blockquote>]]></content>
       
       
       <categories>
